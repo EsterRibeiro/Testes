@@ -1,0 +1,9 @@
+C:\Users\ester.santos\source\repos\BDD\JurosCompostos.Main\bin\Debug\netcoreapp3.1\JurosCompostos.Main.deps.json
+C:\Users\ester.santos\source\repos\BDD\JurosCompostos.Main\bin\Debug\netcoreapp3.1\JurosCompostos.Main.dll
+C:\Users\ester.santos\source\repos\BDD\JurosCompostos.Main\bin\Debug\netcoreapp3.1\JurosCompostos.Main.pdb
+C:\Users\ester.santos\source\repos\BDD\JurosCompostos.Main\obj\Debug\netcoreapp3.1\JurosCompostos.Main.csprojAssemblyReference.cache
+C:\Users\ester.santos\source\repos\BDD\JurosCompostos.Main\obj\Debug\netcoreapp3.1\JurosCompostos.Main.AssemblyInfoInputs.cache
+C:\Users\ester.santos\source\repos\BDD\JurosCompostos.Main\obj\Debug\netcoreapp3.1\JurosCompostos.Main.AssemblyInfo.cs
+C:\Users\ester.santos\source\repos\BDD\JurosCompostos.Main\obj\Debug\netcoreapp3.1\JurosCompostos.Main.csproj.CoreCompileInputs.cache
+C:\Users\ester.santos\source\repos\BDD\JurosCompostos.Main\obj\Debug\netcoreapp3.1\JurosCompostos.Main.dll
+C:\Users\ester.santos\source\repos\BDD\JurosCompostos.Main\obj\Debug\netcoreapp3.1\JurosCompostos.Main.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "JurosCompostos.Main/1.0.0": {
+        "runtime": {
+          "JurosCompostos.Main.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JurosCompostos.Main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

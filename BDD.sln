@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SpecFlow", "SpecFlow", "{E05E3907-1D01-43FE-9383-F959012BBACB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JurosCompostos", "JurosCompostos", "{F51FCF37-3CF3-45E4-BF89-05C89A250327}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoFinanceiro.Tests", "CalculoFinanceiro.Tests\CalculoFinanceiro.Tests.csproj", "{7A90D872-F8A5-4151-A333-26A75B220D5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JurosCompostos.Main", "JurosCompostos.Main\JurosCompostos.Main.csproj", "{D531E41D-9406-4825-946E-117BA6CC6D89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A90D872-F8A5-4151-A333-26A75B220D5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A90D872-F8A5-4151-A333-26A75B220D5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A90D872-F8A5-4151-A333-26A75B220D5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A90D872-F8A5-4151-A333-26A75B220D5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D531E41D-9406-4825-946E-117BA6CC6D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D531E41D-9406-4825-946E-117BA6CC6D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D531E41D-9406-4825-946E-117BA6CC6D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D531E41D-9406-4825-946E-117BA6CC6D89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F51FCF37-3CF3-45E4-BF89-05C89A250327} = {E05E3907-1D01-43FE-9383-F959012BBACB}
+		{7A90D872-F8A5-4151-A333-26A75B220D5C} = {F51FCF37-3CF3-45E4-BF89-05C89A250327}
+		{D531E41D-9406-4825-946E-117BA6CC6D89} = {F51FCF37-3CF3-45E4-BF89-05C89A250327}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {604E0557-39D6-496B-9E4F-950A54BAEFDF}
+	EndGlobalSection
+EndGlobal
