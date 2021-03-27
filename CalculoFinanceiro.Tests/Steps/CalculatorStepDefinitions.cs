@@ -1,6 +1,7 @@
 ﻿using JurosCompostos.Main;
-using TechTalk.SpecFlow;
 using Xunit;
+using System;
+using TechTalk.SpecFlow;
 
 namespace CalculoFinanceiro.Tests.Steps
 {
@@ -12,11 +13,11 @@ namespace CalculoFinanceiro.Tests.Steps
         private int _meses;
         private double _valorFinalPeriodo;
 
-        //private readonly ScenarioContext _scenarioContext;
+        private readonly ScenarioContext _scenarioContext;
 
         public CalculoFinanceiroSteps(ScenarioContext scenarioContext)
         {
-            //_scenarioContext = scenarioContext;
+            _scenarioContext = scenarioContext;
         }
 
         [Given("que o valor do emprestimo foi R\\$ (.*)")]
@@ -41,7 +42,7 @@ namespace CalculoFinanceiro.Tests.Steps
         [When("eu solicitar o valor ao final do periodo")]
         public void ProcessarCalculo()
         {        
-           _valorFinalPeriodo = CalculoFinanc.CalcularValorComJurosCompostos(_valorEmprestimo, _meses, _valorFinalPeriodo);
+           _valorFinalPeriodo = CalculoFinanc.CalcularValorComJurosCompostos(_valorEmprestimo, _meses, _taxa);
         }
 
         [Then("o valor total a ser pago sera R\\$ (.*)")]
