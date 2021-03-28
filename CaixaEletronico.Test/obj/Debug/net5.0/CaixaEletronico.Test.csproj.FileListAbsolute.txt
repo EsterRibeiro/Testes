@@ -103,3 +103,5 @@ C:\Users\ester.santos\source\repos\BDD\CaixaEletronico.Test\obj\Debug\net5.0\Cai
 C:\Users\ester.santos\source\repos\BDD\CaixaEletronico.Test\bin\Debug\net5.0\Castle.Core.dll
 C:\Users\ester.santos\source\repos\BDD\CaixaEletronico.Test\bin\Debug\net5.0\Moq.dll
 C:\Users\ester.santos\source\repos\BDD\CaixaEletronico.Test\bin\Debug\net5.0\NSubstitute.dll
+C:\Users\ester.santos\source\repos\BDD\CaixaEletronico.Test\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ester.santos\source\repos\BDD\CaixaEletronico.Test\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
