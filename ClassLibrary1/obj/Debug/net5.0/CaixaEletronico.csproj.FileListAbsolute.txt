@@ -9,3 +9,4 @@ C:\Users\ester.santos\source\repos\BDD\ClassLibrary1\obj\Debug\net5.0\CaixaEletr
 C:\Users\ester.santos\source\repos\BDD\ClassLibrary1\obj\Debug\net5.0\CaixaEletronico.dll
 C:\Users\ester.santos\source\repos\BDD\ClassLibrary1\obj\Debug\net5.0\ref\CaixaEletronico.dll
 C:\Users\ester.santos\source\repos\BDD\ClassLibrary1\obj\Debug\net5.0\CaixaEletronico.pdb
+C:\Users\ester.santos\source\repos\BDD\ClassLibrary1\obj\Debug\net5.0\CaixaEletronico.csprojAssemblyReference.cache
