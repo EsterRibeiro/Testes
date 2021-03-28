@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JurosCompostos", "JurosComp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculoFinanceiro.Tests", "CalculoFinanceiro.Tests\CalculoFinanceiro.Tests.csproj", "{7A90D872-F8A5-4151-A333-26A75B220D5C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JurosCompostos.Main", "JurosCompostos.Main\JurosCompostos.Main.csproj", "{D531E41D-9406-4825-946E-117BA6CC6D89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JurosCompostos.Domain", "JurosCompostos.Main\JurosCompostos.Domain.csproj", "{D531E41D-9406-4825-946E-117BA6CC6D89}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "XUnit", "XUnit", "{1EFEB82D-388A-4600-9676-BD5A91854205}"
 EndProject

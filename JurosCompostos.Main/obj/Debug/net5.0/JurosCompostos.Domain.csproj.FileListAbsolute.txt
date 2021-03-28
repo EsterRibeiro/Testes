@@ -1,0 +1,11 @@
+C:\Users\ester.santos\source\repos\BDD\JurosCompostos.Main\bin\Debug\net5.0\JurosCompostos.Domain.deps.json
+C:\Users\ester.santos\source\repos\BDD\JurosCompostos.Main\bin\Debug\net5.0\JurosCompostos.Domain.dll
+C:\Users\ester.santos\source\repos\BDD\JurosCompostos.Main\bin\Debug\net5.0\ref\JurosCompostos.Domain.dll
+C:\Users\ester.santos\source\repos\BDD\JurosCompostos.Main\bin\Debug\net5.0\JurosCompostos.Domain.pdb
+C:\Users\ester.santos\source\repos\BDD\JurosCompostos.Main\obj\Debug\net5.0\JurosCompostos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ester.santos\source\repos\BDD\JurosCompostos.Main\obj\Debug\net5.0\JurosCompostos.Domain.AssemblyInfoInputs.cache
+C:\Users\ester.santos\source\repos\BDD\JurosCompostos.Main\obj\Debug\net5.0\JurosCompostos.Domain.AssemblyInfo.cs
+C:\Users\ester.santos\source\repos\BDD\JurosCompostos.Main\obj\Debug\net5.0\JurosCompostos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ester.santos\source\repos\BDD\JurosCompostos.Main\obj\Debug\net5.0\JurosCompostos.Domain.dll
+C:\Users\ester.santos\source\repos\BDD\JurosCompostos.Main\obj\Debug\net5.0\ref\JurosCompostos.Domain.dll
+C:\Users\ester.santos\source\repos\BDD\JurosCompostos.Main\obj\Debug\net5.0\JurosCompostos.Domain.pdb

@@ -1,12 +1,11 @@
-C:\Users\ester.santos\source\repos\BDD\ClassLibrary1\obj\Debug\net5.0\CaixaEletronico.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ester.santos\source\repos\BDD\ClassLibrary1\obj\Debug\net5.0\CaixaEletronico.AssemblyInfoInputs.cache
-C:\Users\ester.santos\source\repos\BDD\ClassLibrary1\obj\Debug\net5.0\CaixaEletronico.AssemblyInfo.cs
-C:\Users\ester.santos\source\repos\BDD\ClassLibrary1\obj\Debug\net5.0\CaixaEletronico.csproj.CoreCompileInputs.cache
 C:\Users\ester.santos\source\repos\BDD\ClassLibrary1\bin\Debug\net5.0\CaixaEletronico.deps.json
 C:\Users\ester.santos\source\repos\BDD\ClassLibrary1\bin\Debug\net5.0\CaixaEletronico.dll
 C:\Users\ester.santos\source\repos\BDD\ClassLibrary1\bin\Debug\net5.0\ref\CaixaEletronico.dll
 C:\Users\ester.santos\source\repos\BDD\ClassLibrary1\bin\Debug\net5.0\CaixaEletronico.pdb
-C:\Users\ester.santos\source\repos\BDD\ClassLibrary1\obj\Debug\net5.0\CaixaEletronico.csprojAssemblyReference.cache
+C:\Users\ester.santos\source\repos\BDD\ClassLibrary1\obj\Debug\net5.0\CaixaEletronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ester.santos\source\repos\BDD\ClassLibrary1\obj\Debug\net5.0\CaixaEletronico.AssemblyInfoInputs.cache
+C:\Users\ester.santos\source\repos\BDD\ClassLibrary1\obj\Debug\net5.0\CaixaEletronico.AssemblyInfo.cs
+C:\Users\ester.santos\source\repos\BDD\ClassLibrary1\obj\Debug\net5.0\CaixaEletronico.csproj.CoreCompileInputs.cache
 C:\Users\ester.santos\source\repos\BDD\ClassLibrary1\obj\Debug\net5.0\CaixaEletronico.dll
 C:\Users\ester.santos\source\repos\BDD\ClassLibrary1\obj\Debug\net5.0\ref\CaixaEletronico.dll
 C:\Users\ester.santos\source\repos\BDD\ClassLibrary1\obj\Debug\net5.0\CaixaEletronico.pdb

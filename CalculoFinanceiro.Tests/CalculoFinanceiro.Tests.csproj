@@ -31,7 +31,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\JurosCompostos.Main\JurosCompostos.Main.csproj" />
+    <ProjectReference Include="..\JurosCompostos.Main\JurosCompostos.Domain.csproj" />
   </ItemGroup>
 
 </Project>

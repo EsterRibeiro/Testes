@@ -1943,14 +1943,14 @@
           "lib/netstandard1.1/Xunit.SkippableFact.dll": {}
         }
       },
-      "JurosCompostos.Main/1.0.0": {
+      "JurosCompostos.Domain/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
+        "framework": ".NETCoreApp,Version=v5.0",
         "compile": {
-          "bin/placeholder/JurosCompostos.Main.dll": {}
+          "bin/placeholder/JurosCompostos.Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/JurosCompostos.Main.dll": {}
+          "bin/placeholder/JurosCompostos.Domain.dll": {}
         }
       }
     }
@@ -6586,16 +6586,16 @@
         "xunit.skippablefact.nuspec"
       ]
     },
-    "JurosCompostos.Main/1.0.0": {
+    "JurosCompostos.Domain/1.0.0": {
       "type": "project",
-      "path": "../JurosCompostos.Main/JurosCompostos.Main.csproj",
-      "msbuildProject": "../JurosCompostos.Main/JurosCompostos.Main.csproj"
+      "path": "../JurosCompostos.Main/JurosCompostos.Domain.csproj",
+      "msbuildProject": "../JurosCompostos.Main/JurosCompostos.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "FluentAssertions >= 5.10.3",
-      "JurosCompostos.Main >= 1.0.0",
+      "JurosCompostos.Domain >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
       "SpecFlow.Plus.LivingDocPlugin >= 3.7.10",
       "SpecFlow.xUnit >= 3.7.13",
@@ -6630,8 +6630,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\ester.santos\\source\\repos\\BDD\\JurosCompostos.Main\\JurosCompostos.Main.csproj": {
-              "projectPath": "C:\\Users\\ester.santos\\source\\repos\\BDD\\JurosCompostos.Main\\JurosCompostos.Main.csproj"
+            "C:\\Users\\ester.santos\\source\\repos\\BDD\\JurosCompostos.Main\\JurosCompostos.Domain.csproj": {
+              "projectPath": "C:\\Users\\ester.santos\\source\\repos\\BDD\\JurosCompostos.Main\\JurosCompostos.Domain.csproj"
             }
           }
         }
