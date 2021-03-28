@@ -1,0 +1,4 @@
+C:\Users\ester.santos\source\repos\BDD\ClassLibrary1\obj\Debug\net5.0\CaixaEletronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ester.santos\source\repos\BDD\ClassLibrary1\obj\Debug\net5.0\CaixaEletronico.AssemblyInfoInputs.cache
+C:\Users\ester.santos\source\repos\BDD\ClassLibrary1\obj\Debug\net5.0\CaixaEletronico.AssemblyInfo.cs
+C:\Users\ester.santos\source\repos\BDD\ClassLibrary1\obj\Debug\net5.0\CaixaEletronico.csproj.CoreCompileInputs.cache
