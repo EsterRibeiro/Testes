@@ -6609,11 +6609,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ester.santos\\source\\repos\\BDD\\CalculoFinanceiro.Tests\\CalculoFinanceiro.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\ester.santos\\Documents\\Estudos\\Testes\\Testes\\CalculoFinanceiro.Tests\\CalculoFinanceiro.Tests.csproj",
       "projectName": "CalculoFinanceiro.Tests",
-      "projectPath": "C:\\Users\\ester.santos\\source\\repos\\BDD\\CalculoFinanceiro.Tests\\CalculoFinanceiro.Tests.csproj",
+      "projectPath": "C:\\Users\\ester.santos\\Documents\\Estudos\\Testes\\Testes\\CalculoFinanceiro.Tests\\CalculoFinanceiro.Tests.csproj",
       "packagesPath": "C:\\Users\\ester.santos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ester.santos\\source\\repos\\BDD\\CalculoFinanceiro.Tests\\obj\\",
+      "outputPath": "C:\\Users\\ester.santos\\Documents\\Estudos\\Testes\\Testes\\CalculoFinanceiro.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ester.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6630,8 +6630,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\ester.santos\\source\\repos\\BDD\\JurosCompostos.Main\\JurosCompostos.Domain.csproj": {
-              "projectPath": "C:\\Users\\ester.santos\\source\\repos\\BDD\\JurosCompostos.Main\\JurosCompostos.Domain.csproj"
+            "C:\\Users\\ester.santos\\Documents\\Estudos\\Testes\\Testes\\JurosCompostos.Main\\JurosCompostos.Domain.csproj": {
+              "projectPath": "C:\\Users\\ester.santos\\Documents\\Estudos\\Testes\\Testes\\JurosCompostos.Main\\JurosCompostos.Domain.csproj"
             }
           }
         }

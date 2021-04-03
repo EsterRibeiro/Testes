@@ -6416,11 +6416,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ester.santos\\source\\repos\\BDD\\CaixaEletronico.Test\\CaixaEletronico.Test.csproj",
+      "projectUniqueName": "C:\\Users\\ester.santos\\Documents\\Estudos\\Testes\\Testes\\CaixaEletronico.Test\\CaixaEletronico.Test.csproj",
       "projectName": "CaixaEletronico.Test",
-      "projectPath": "C:\\Users\\ester.santos\\source\\repos\\BDD\\CaixaEletronico.Test\\CaixaEletronico.Test.csproj",
+      "projectPath": "C:\\Users\\ester.santos\\Documents\\Estudos\\Testes\\Testes\\CaixaEletronico.Test\\CaixaEletronico.Test.csproj",
       "packagesPath": "C:\\Users\\ester.santos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ester.santos\\source\\repos\\BDD\\CaixaEletronico.Test\\obj\\",
+      "outputPath": "C:\\Users\\ester.santos\\Documents\\Estudos\\Testes\\Testes\\CaixaEletronico.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ester.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6437,8 +6437,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\ester.santos\\source\\repos\\BDD\\ClassLibrary1\\CaixaEletronico.csproj": {
-              "projectPath": "C:\\Users\\ester.santos\\source\\repos\\BDD\\ClassLibrary1\\CaixaEletronico.csproj"
+            "C:\\Users\\ester.santos\\Documents\\Estudos\\Testes\\Testes\\ClassLibrary1\\CaixaEletronico.csproj": {
+              "projectPath": "C:\\Users\\ester.santos\\Documents\\Estudos\\Testes\\Testes\\ClassLibrary1\\CaixaEletronico.csproj"
             }
           }
         }

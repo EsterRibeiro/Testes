@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XQmT74Cm9mfnX1ltBqEjmCldB2Y3sABxcXR13VOsOQZQeRWTJUAeWEUM0nnWAirbmZUb/ij3o6+vk8HKoBQgLg==",
+  "dgSpecHash": "N7bYZpP8/93zTU9c+vabHFJqJrDk3K+SqbdvmFAinhhKGcVhurhb0yohlYPH4Dg9XmKZ7AXPQF2mSbO+Yv+w0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ester.santos\\source\\repos\\BDD\\JurosCompostos.Main\\JurosCompostos.Domain.csproj",
+  "projectFilePath": "C:\\Users\\ester.santos\\Documents\\Estudos\\Testes\\Testes\\JurosCompostos.Main\\JurosCompostos.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

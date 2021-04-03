@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ester.santos\\source\\repos\\BDD\\ClassLibrary1\\CaixaEletronico.csproj",
+      "projectUniqueName": "C:\\Users\\ester.santos\\Documents\\Estudos\\Testes\\Testes\\ClassLibrary1\\CaixaEletronico.csproj",
       "projectName": "CaixaEletronico",
-      "projectPath": "C:\\Users\\ester.santos\\source\\repos\\BDD\\ClassLibrary1\\CaixaEletronico.csproj",
+      "projectPath": "C:\\Users\\ester.santos\\Documents\\Estudos\\Testes\\Testes\\ClassLibrary1\\CaixaEletronico.csproj",
       "packagesPath": "C:\\Users\\ester.santos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ester.santos\\source\\repos\\BDD\\ClassLibrary1\\obj\\",
+      "outputPath": "C:\\Users\\ester.santos\\Documents\\Estudos\\Testes\\Testes\\ClassLibrary1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ester.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",

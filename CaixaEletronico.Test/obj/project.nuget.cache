@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+yHbK3Y/7b4CuDyc2BnNUts/2lNuUxrbillRlqdB13PuqnFsZaKS5WtP7g61VJQODdF9Hm1VfwtyYWPX/GXAHg==",
+  "dgSpecHash": "WA4JghPj4jXiwgLmLoTsPStfyOTdXt1a8r9g013bNdwG1cFiPc2+J3liM1aBpR1ayO2jvylhh8OxS29k44zDwQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ester.santos\\source\\repos\\BDD\\CaixaEletronico.Test\\CaixaEletronico.Test.csproj",
+  "projectFilePath": "C:\\Users\\ester.santos\\Documents\\Estudos\\Testes\\Testes\\CaixaEletronico.Test\\CaixaEletronico.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ester.santos\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\ester.santos\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",

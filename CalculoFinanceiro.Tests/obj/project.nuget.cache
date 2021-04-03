@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4uCOmxGHSoqKRGzQj8KyM1v956dGZfslF8EhIkJR0K7yqkzVh+baWPhdvcMwU1fCNEyj5o0SzthOY/6HDyEoxQ==",
+  "dgSpecHash": "wBmUT7iiSkX+rQbCVs+FKeQgIUkIVwAUHHWMg0ADfdF0bU+qrhQcmWv7PDJwrMBReLeAt6+RAGt68337IB3arA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ester.santos\\source\\repos\\BDD\\CalculoFinanceiro.Tests\\CalculoFinanceiro.Tests.csproj",
+  "projectFilePath": "C:\\Users\\ester.santos\\Documents\\Estudos\\Testes\\Testes\\CalculoFinanceiro.Tests\\CalculoFinanceiro.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ester.santos\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\ester.santos\\.nuget\\packages\\cucumber.messages\\6.0.1\\cucumber.messages.6.0.1.nupkg.sha512",
